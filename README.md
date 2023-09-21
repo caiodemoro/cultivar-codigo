@@ -9,7 +9,7 @@ Sistemas de Informação
  # Participantes
 
  - Caio De Moro Abjaud
-- 
+ - Lucas Gabriel Pimenta Moreira
 - 
 - 
 
