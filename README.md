@@ -8,10 +8,10 @@ Sistemas de Informação
 
  # Participantes
 
+ - Lucas Gabriel Pimenta Moreira
  - Caio De Moro Abjaud
-- 
-- 
-- 
+ - Pedro Henrique Peixoto Da Silva
+ - Luiz Phillipe
 
 # Professores Responsáveis
 
