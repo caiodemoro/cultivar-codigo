@@ -8,5 +8,9 @@ Sistemas de Informação
 
  # Participantes
 
- -Caio De Moro Abjaud
+ - Caio De Moro Abjaud
 
+
+# Professores Responsáveis
+
+- Pedro Felipe Alves de Oliveira
